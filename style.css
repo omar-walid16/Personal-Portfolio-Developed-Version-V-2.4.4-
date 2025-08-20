@@ -22,7 +22,7 @@ img {
 }
 header
 {
-    background-image: url(../bg-portfolio1.jpg);
+    background-image: url(bg-portfolio1.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -45,36 +45,6 @@ nav ul li a
 {
     font-size: 36px;
 }
-
-/* .home-page p::after
-{
-    content: " |";
-    animation-name: typing;
-    animation-duration: 2s;
-    animation-iteration-count: infinite;
-}
-@keyframes typing {
-    0%{content: " |";}
-    5%{content: "D|";}
-    10%{content: "De|";}
-    15%{content: "Des|";}
-    20%{content: "Desi|";}
-    25%{content: "Desig|";}
-    30%{content: "Design|";}
-    35%{content: "Designe|";}
-    40%{content: "Designer|";}
-    45%{content: "Designe|";}
-    50%{content: "Design|";}
-    55%{content: "Desig|";}
-    60%{content: "Desi|";}
-    65%{content: "Des|";}
-    70%{content: "De|";}
-    75%{content: "D|";}
-    80%{content: "|";}
-    
-
-} */
-
  img
 {
     border-radius: 10%;
@@ -244,4 +214,5 @@ nav ul li a
   } 100%, 0% {
     transform: scale(1.0); 
   } 
+
 }
