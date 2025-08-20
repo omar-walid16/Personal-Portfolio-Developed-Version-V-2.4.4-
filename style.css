@@ -22,7 +22,7 @@ img {
 }
 header
 {
-    background-image: url(bg-portfolio1.jpg);
+    background-image: url(../bg-portfolio1.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -216,3 +216,4 @@ nav ul li a
   } 
 
 }
+
